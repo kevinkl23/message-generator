@@ -40,4 +40,9 @@ body {
 #button:hover {
     background-color: #555555;
     color: white;
-  }
+}
+
+#output {
+    font-size: 2rem;
+    text-align: center;
+}
